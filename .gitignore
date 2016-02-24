@@ -1,0 +1,11 @@
+/*
+!/.gitignore
+!/LICENSE.txt
+!/packages.json
+!/README.md
+!/README.src.md
+!/screencast.gif
+!*.py
+~*
+*.pyc
+*.egg-info

@@ -1,0 +1,16 @@
+{
+    "schema_version": "3.0.0",
+    "packages": [
+        {
+            "name": "AoikProjectSpecificPackages",
+            "details": "https://github.com/AoiKuiyuyou/AoikProjectSpecificPackages-SublimeText",
+            "labels": ["project"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        }
+    ]
+}
